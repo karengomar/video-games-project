@@ -1,0 +1,82 @@
+[
+    {
+        "id": "0",
+        "name": "Horizon Zero Dawn™",
+        "price": "49,95"
+    },
+    {
+        "id": "1",
+        "name": "God of War™",
+        "price": "149,95"
+    },
+    {
+        "id": "2",
+        "name": "Red Dead Redemption",
+        "price": "189,95"  
+    },
+    {
+        "id": "3",
+        "name": "The Witcher 3: Wild H...",
+        "price": "39,95"
+    },
+    {
+        "id": "4",
+        "name": "Hogwarts Legacy",
+        "price": "49,95"
+    },
+    {
+        "id": "5",
+        "name": "Final Fantasy XVI",
+        "price": "149,95"
+    },
+    {
+        "id": "6",
+        "name": "Kena, Bridge of Spirits",
+        "price": "189,95"
+    },
+    {
+        "id": "7",
+        "name": "Goodbye Volcano Hi...",
+        "price": "39,95"
+    },
+    {
+        "id": "8",
+        "name": "GhostWire: Tokyo",
+        "price": "49,95"
+    },
+    {
+        "id": "9",
+        "name": "Horizon: Forbidden W...",
+        "price": "149,95"
+    },
+    {
+        "id": "10",
+        "name": "Bugsnax",
+        "price": "189,95"
+    },
+    {
+        "id": "11",
+        "name": "Resident Evil Village",
+        "price": "39,95"
+    },
+    {
+        "id": "12",
+        "name": "Deathloop",
+        "price": "49,95"
+    },
+    {
+        "id": "13",
+        "name": "Returnal",
+        "price": "149,95"
+    },
+    {
+        "id": "14",
+        "name": "Jett: The Far Shore ",
+        "price": "189,95"
+    },
+    {
+        "id": "15",
+        "name": "God of War: Ragnarok",
+        "price": "39,95"
+    }
+]

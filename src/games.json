@@ -1,0 +1,103 @@
+[
+    {
+        "id": "0",
+        "name": "Horizon Zero Dawn™",
+        "price": "49,95",
+        "img": "../images/Horizon/image-horizon.png",
+        "featured": true
+    },
+    {
+        "id": "1",
+        "name": "God of War™",
+        "price": "149,95",
+        "img": "../images/God of War/god-of-war.png"
+    },
+    {
+        "id": "2",
+        "name": "Red Dead Redemption",
+        "price": "189,95",
+        "img": "../images/Red Dead Redemption 2/rdr2.png"
+    },
+    {
+        "id": "3",
+        "name": "The Witcher 3: Wild Hunter",
+        "price": "39,95",
+        "img": "../images/The Witcher/image-tw.png",
+        "featured": true
+
+    },
+    {
+        "id": "4",
+        "name": "Hogwarts Legacy",
+        "price": "49,95",
+        "img": "../images/Hogwarts Legacy/hl.png"
+    },
+    {
+        "id": "5",
+        "name": "Final Fantasy XVI",
+        "price": "149,95",
+        "img": "../images/Final Fantasy XVI/final-fantasy-xvi.png"
+    },
+    {
+        "id": "6",
+        "name": "Kena, Bridge of Spirits",
+        "price": "189,95",
+        "img": "../images/Kena/kena.png"
+    },
+    {
+        "id": "7",
+        "name": "Goodbye Volcano Hi...",
+        "price": "39,95",
+        "img": "../images/Goodbye Volcano Highs/goodbye.png"
+    },
+    {
+        "id": "8",
+        "name": "GhostWire: Tokyo",
+        "price": "49,95",
+        "img": "../images/GhostWire Tokio/ghost.png",
+        "featured": true
+    },
+    {
+        "id": "9",
+        "name": "Horizon: Forbidden W...",
+        "price": "149,95",
+        "img": "../images/Horizon FW/horizon-fw.png"
+    },
+    {
+        "id": "10",
+        "name": "Bugsnax",
+        "price": "189,95",
+        "img": "../images/Bugsnax/bug.png"
+    },
+    {
+        "id": "11",
+        "name": "Resident Evil Village",
+        "price": "39,95",
+        "img": "../images/Resident Evil Village/bitmap.png"
+    },
+    {
+        "id": "12",
+        "name": "Deathloop",
+        "price": "49,95",
+        "img": "../images/Deathloop/bg.png"
+    },
+    {
+        "id": "13",
+        "name": "Returnal",
+        "price": "149,95",
+        "img": "../images/Returnal/returnal.png",
+        "featured": true
+    },
+    {
+        "id": "14",
+        "name": "Jett: The Far Shore ",
+        "price": "189,95",
+        "img": "../images/Jett/jett.png"
+    },
+    {
+        "id": "15",
+        "name": "God of War: Ragnarok",
+        "price": "39,95",
+        "img": "../images/God of War Ragnarok/bitmap.png"
+    }
+]
