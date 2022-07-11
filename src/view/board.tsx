@@ -1,8 +1,8 @@
 import React from "react";
-import Card from "./Card";
+import Card from "../components/card";
 import "../index.css";
 import Games from "../games.json";
-import { Recommend } from "./Recommend";
+import  Recommend from "../components/recommend";
 
 export const Board = () => {
   const featuredGames = Games.filter((recommended) => recommended.featured === true);

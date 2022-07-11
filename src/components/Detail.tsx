@@ -1,5 +1,5 @@
 import React from "react";
-import { DetailInfo } from "./DetailInfo";
+import DetailInfo from "../view/detail-info";
 import  "../index.css";
 import Games from "../games.json";
 import { useParams } from "react-router";
